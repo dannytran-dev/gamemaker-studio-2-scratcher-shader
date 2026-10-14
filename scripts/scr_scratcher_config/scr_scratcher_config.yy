@@ -1,0 +1,13 @@
+{
+  "$GMScript":"",
+  "%Name":"scr_scratcher_config",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"scr_scratcher_config",
+  "parent":{
+    "name":"Scripts",
+    "path":"folders/Scratcher/Scripts.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}
